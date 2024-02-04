@@ -11,7 +11,7 @@ app = Flask(__name__)
 # Config MySQL
 app.config['MYSQL_HOST'] = 'localhost'
 app.config['MYSQL_USER'] = 'root'
-app.config['MYSQL_PASSWORD'] = 'Harish1234'
+app.config['MYSQL_PASSWORD'] = 'jeswin1234'
 app.config['MYSQL_DB'] = 'hotel_management'
 app.config['MYSQL_CURSORCLASS'] = 'DictCursor'
 # init MYSQL
@@ -165,7 +165,7 @@ def add_amenity():
     import mysql.connector
     db_config = {
     'user': 'root',
-    'password': 'Harish1234',
+    'password': 'harish1234',
     'host': 'localhost',
     'database': 'hotel_management',
     'raise_on_warnings': True
