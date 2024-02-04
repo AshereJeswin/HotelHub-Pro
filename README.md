@@ -1,6 +1,6 @@
 # Hotel Management System
 
-This Hotel Management System is designed to streamline hotel operations, including room booking, amenity reservations, and bill generation. The system utilizes HTML/CSS for the front-end, Flask for the backend, Flask-MySQL for database connectivity, and MySQL Server for data storage.
+This Hotel Management System is designed to streamline hotel operations, including room booking, amenity reservations, and bill generation. The system utilizes HTML/CSS for the front-end, Flask for the backend, Flask-MySQL for database connectivity, and MySQL Server for datastorage.
 
 ## Features
 
