@@ -165,7 +165,7 @@ def add_amenity():
     import mysql.connector
     db_config = {
     'user': 'root',
-    'password': 'harish1234',
+    'password': 'jeswin1234',
     'host': 'localhost',
     'database': 'hotel_management',
     'raise_on_warnings': True
@@ -256,7 +256,7 @@ def add_room():
     import mysql.connector
     db_config = {
     'user': 'root',
-    'password': 'Harish1234',
+    'password': 'jeswin1234',
     'host': 'localhost',
     'database': 'hotel_management',
     'raise_on_warnings': True
